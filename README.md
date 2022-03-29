@@ -10,9 +10,9 @@
 ### 2.Adım:
 ➤Açılan pencerede "oto" butonuna basarak; vize, final ve ödev notlarının etki oranlarını getirebilirsiniz. 
 <br>
-Not: Bu etki oranları okumakta olduğum üniversitenin sistemine göre ayarlanmıştır. Ancak manuel olarak da; etki oranlarını kendi üniversitenize göre girebilirsiniz.
+➤Not: Bu etki oranları okumakta olduğum üniversitenin sistemine göre ayarlanmıştır. Ancak manuel olarak da; etki oranlarını kendi üniversitenize göre girebilirsiniz.
 <br>
-Not2: Etki oranlarından ödev kısmını "0" bıraktım çünkü bizim üniversitede ödev diye bir şey yok.
+➤Not2: Etki oranlarından ödev kısmını "0" bıraktım çünkü bizim üniversitede ödev diye bir şey yok.
 <br>
 ![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/3.png)
 <br>
