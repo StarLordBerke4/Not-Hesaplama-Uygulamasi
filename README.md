@@ -19,9 +19,9 @@
 ### 3.Adım:
 ➤Not bölümüne almış olduğunu vize, final ve ödev notunu 100'lük sisteme göre giriniz. Daha sonra "göster" butonuna batığınızda ders ortalamanız hesaplanacaktır.
 <br>
-![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/3.png)
+![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/4.png)
 <br>
-![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/3.png)
+![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/5.png)
 
 # Uygulamayı Nasıl İndirebilirim?
 ➤Not Hesaplama Uygulamasını indirmek için; githup depomuzda yer alan "NotHesaplamaUygulaması.exe" dosyasını indirmeniz yeterlidir.
