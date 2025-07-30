@@ -16,11 +16,9 @@
 - <p>Manuel Ayarlama: Eğer üniversitenizin notlandırma sistemi farklıysa, etki oranlarını manuel olarak da girebilirsiniz. Bunun için ilgili alanlara kendi üniversitenizin belirlediği yüzde oranlarını (% olarak) yazmanız yeterlidir. Örneğin, vize %40, final %60 gibi.</p>
 <br>
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/G%C3%B6rseller/3.png">
+<br>
 - <p><b>Not:</b>Uygulamadaki otomatik etki oranları, geliştiricinin okuduğu üniversite sistemine göre ayarlanmıştır. Kendi üniversitenizin notlandırma sistemini teyit ederek manuel giriş yapmanız, en doğru sonucu almanızı sağlayacaktır. Ödev etki oranı varsayılan olarak "0" bırakılmıştır, çünkü geliştiricinin üniversitesinde ödev notu uygulaması bulunmamaktadır. Eğer sizin derslerinizde ödev notları ortalamayı etkiliyorsa, bu değeri kendi ihtiyacınıza göre ayarlayabilirsiniz.</p>
 
-<br>
-![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/3.png)
-<br>
 ### 3.Adım:
 ➤Not bölümüne almış olduğunu vize, final ve ödev notunu 100'lük sisteme göre giriniz. Daha sonra "göster" butonuna batığınızda ders ortalamanız hesaplanacaktır.
 <br>
