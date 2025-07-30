@@ -1,16 +1,23 @@
 # ⚡Not Hesaplama Uygulaması⚡
-Üniversite öğrencileri için hazırlamış olduğum vize ve final notlarını girerek ders ortalamalarını hızlı bir şekilde hesaplamalarını sağlayacak bir uygulamadır.
+<p>Bu uygulama, üniversite öğrencilerinin akademik hayatlarını kolaylaştırmak amacıyla özel olarak tasarlanmış, kullanıcı dostu bir not hesaplama aracıdır. Geliştirilen bu yazılım sayesinde, vize, final ve isteğe bağlı olarak ekleyebileceğiniz ödev notlarınızı sisteme girerek ders ortalamalarınızı hızlı ve zahmetsiz bir şekilde hesaplayabilirsiniz. Artık, bir dersi geçmek için almanız gereken minimum notu bulmak veya dönem sonu not ortalamanızı tahmin etmek gibi karmaşık ve zaman alıcı hesaplamalarla uğraşmanıza gerek kalmayacak. Uygulama, size anında ve doğru sonuçlar sunarak akademik sürecinizdeki belirsizlikleri ortadan kaldırır. Bu sayede, notlarınızı takip etmek, hangi derse ne kadar ağırlık vermeniz gerektiğini belirlemek ve hatta gelecekteki notlarınızı planlamak için güçlü bir araca sahip olacaksınız. Amacımız, öğrencilerin dersleriyle ilgili not kaygılarını azaltarak, eğitimlerine daha fazla odaklanmalarına yardımcı olmaktır.</p>
+<p>Üniversite öğrencileri için hazırlamış olduğum vize ve final notlarını girerek ders ortalamalarını hızlı bir şekilde hesaplamalarını sağlayacak bir uygulamadır.</p>
 
 # Nasıl Kullanılır?
-### 1.Adım:
-➤"Not Hesaplama Uygulaması.exe" dosyasını bilgisayarımıza indirerek çalıştırıyoruz.
+### 1.Adım: Uygulamayı İndirme ve Başlatma
+- <p>İlk adım olarak, "Not Hesaplama Uygulaması.exe" dosyasını bilgisayarınıza indirmeniz gerekmektedir. Bu dosyayı GitHub deponuzdan kolayca temin edebilirsiniz. İndirme işlemi tamamlandığında, indirilen bu çalıştırılabilir dosyaya çift tıklayarak uygulamayı başlatın. Uygulama, kullanıma hazır bir pencereyle karşınıza gelecektir.</p>
 <br>
-![image](https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/1.png)
+<img width="300" height="300" src="https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/G%C3%B6rseller/1.png">
+
+### 2.Adım: Not Etki Oranlarını Ayarlama
+- <p>Uygulama açıldığında, vize, final ve ödev notlarının ders ortalamasına etki oranlarını belirlemeniz gerekecek.</p>
+- <p>Otomatik Ayarlama: Eğer okuduğunuz üniversitenin not etki oranları, uygulamanın varsayılan ayarlarıyla (senin üniversitenin sistemine göre ayarlanmış) uyumluysa, pencerede yer alan "oto" butonuna basmanız yeterlidir. Bu sayede, vize, final ve ödev notlarının etki oranları otomatik olarak yüklenecektir.</p>
+- <p>Manuel Ayarlama: Eğer üniversitenizin notlandırma sistemi farklıysa, etki oranlarını manuel olarak da girebilirsiniz. Bunun için ilgili alanlara kendi üniversitenizin belirlediği yüzde oranlarını (% olarak) yazmanız yeterlidir. Örneğin, vize %40, final %60 gibi.</p>
 <br>
-### 2.Adım:
-➤Açılan pencerede "oto" butonuna basarak; vize, final ve ödev notlarının etki oranlarını getirebilirsiniz. 
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/G%C3%B6rseller/2.png">
 <br>
-➤Not: Bu etki oranları okumakta olduğum üniversitenin sistemine göre ayarlanmıştır. Ancak manuel olarak da; etki oranlarını kendi üniversitenize göre girebilirsiniz.
+- <p><b>Not:</b>Uygulamadaki otomatik etki oranları, geliştiricinin okuduğu üniversite sistemine göre ayarlanmıştır. Kendi üniversitenizin notlandırma sistemini teyit ederek manuel giriş yapmanız, en doğru sonucu almanızı sağlayacaktır.</p>
+<br>
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/G%C3%B6rseller/3.png">
 <br>
 ➤Not2: Etki oranlarından ödev kısmını "0" bıraktım çünkü bizim üniversitede ödev diye bir şey yok.
 <br>
