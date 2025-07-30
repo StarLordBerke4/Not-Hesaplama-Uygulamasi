@@ -26,7 +26,7 @@
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/Not-Hesaplama-Uygulamasi/blob/master/G%C3%B6rseller/3.png">
 <br>
 
-- <p><b>Not:</b>Uygulamadaki otomatik etki oranları, geliştiricinin okuduğu üniversite sistemine göre ayarlanmıştır. Kendi üniversitenizin notlandırma sistemini teyit ederek manuel giriş yapmanız, en doğru sonucu almanızı sağlayacaktır. Ödev etki oranı varsayılan olarak "0" bırakılmıştır, çünkü geliştiricinin üniversitesinde ödev notu uygulaması bulunmamaktadır. Eğer sizin derslerinizde ödev notları ortalamayı etkiliyorsa, bu değeri kendi ihtiyacınıza göre ayarlayabilirsiniz.</p>
+- <p><b>Not:</b> Uygulamadaki otomatik etki oranları, geliştiricinin okuduğu üniversite sistemine göre ayarlanmıştır. Kendi üniversitenizin notlandırma sistemini teyit ederek manuel giriş yapmanız, en doğru sonucu almanızı sağlayacaktır. Ödev etki oranı varsayılan olarak "0" bırakılmıştır, çünkü geliştiricinin üniversitesinde ödev notu uygulaması bulunmamaktadır. Eğer sizin derslerinizde ödev notları ortalamayı etkiliyorsa, bu değeri kendi ihtiyacınıza göre ayarlayabilirsiniz.</p>
 
 ### 3.Adım: Notları Girme ve Ortalamayı Hesaplama
 - <p>Etki oranlarını ayarladıktan sonra, ilgili "not" bölümlerine vize, final ve varsa ödev notlarınızı 100'lük sistem üzerinden girin. Örneğin, vizeden 75, finalden 80 aldıysanız bu değerleri ilgili kutucuklara yazın. Tüm notları girdikten sonra "göster" butonuna tıklayın. Uygulama, girdiğiniz notları ve ayarladığınız etki oranlarını kullanarak ders ortalamanızı anında hesaplayacak ve size sunacaktır. Böylece, dersi geçip geçmediğinizi veya ortalamanızın kaç olduğunu hızlıca öğrenebilirsiniz.</p>
